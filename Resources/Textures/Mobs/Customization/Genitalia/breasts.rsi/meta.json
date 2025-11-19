@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Unknown",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "1",
+      "directions": 4
+    },
+    {
+      "name": "2",
+      "directions": 4
+    },
+    {
+      "name": "3",
+      "directions": 4
+    },
+    {
+      "name": "4",
+      "directions": 4
+    },
+    {
+      "name": "5",
+      "directions": 4
+    },
+    {
+      "name": "6",
+      "directions": 4
+    },
+    {
+      "name": "7",
+      "directions": 4
+    },
+    {
+      "name": "8",
+      "directions": 4
+    },
+    {
+      "name": "11",
+      "directions": 4
+    },
+    {
+      "name": "12",
+      "directions": 4
+    },
+    {
+      "name": "14",
+      "directions": 4
+    },
+    {
+      "name": "15",
+      "directions": 4
+    },
+    {
+      "name": "16",
+      "directions": 4
+    },
+    {
+      "name": "17",
+      "directions": 4
+    },
+    {
+      "name": "18",
+      "directions": 4
+    },
+    {
+      "name": "19",
+      "directions": 4
+    },
+    {
+      "name": "20",
+      "directions": 4
+    },
+    {
+      "name": "21",
+      "directions": 4
+    },
+    {
+      "name": "22",
+      "directions": 4
+    },
+    {
+      "name": "23",
+      "directions": 4
+    },
+    {
+      "name": "24",
+      "directions": 4
+    },
+    {
+      "name": "25",
+      "directions": 4
+    }
+  ]
+}

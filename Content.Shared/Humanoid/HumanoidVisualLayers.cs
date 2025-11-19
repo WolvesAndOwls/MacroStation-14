@@ -30,7 +30,7 @@ namespace Content.Shared.Humanoid
         Handcuffs,
         StencilMask,
         Ensnare,
+        Genitals,
         Fire,
-
     }
 }

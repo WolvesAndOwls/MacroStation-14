@@ -1,0 +1,147 @@
+- type: marking
+  id: testicles-1
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "1"
+- type: marking
+  id: testicles-2
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "2"
+- type: marking
+  id: testicles-3
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "3"
+- type: marking
+  id: testicles-4
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "4"
+- type: marking
+  id: testicles-7
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "7"
+- type: marking
+  id: testicles-8
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "8"
+- type: marking
+  id: testicles-9
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "9"
+- type: marking
+  id: testicles-10
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "10"
+- type: marking
+  id: testicles-11
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "11"
+- type: marking
+  id: testicles-13
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "13"
+- type: marking
+  id: testicles-14
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "14"
+- type: marking
+  id: testicles-15
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "15"
+- type: marking
+  id: testicles-16
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "16"
+- type: marking
+  id: testicles-17
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "17"
+- type: marking
+  id: testicles-18
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "18"
+- type: marking
+  id: testicles-19
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "19"
+- type: marking
+  id: testicles-20
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "20"
+- type: marking
+  id: testicles-21
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "21"
+- type: marking
+  id: testicles-22
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "22"
+- type: marking
+  id: testicles-23
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "23"
+- type: marking
+  id: testicles-24
+  bodyPart: HeadTop
+  markingCategory: Genitals
+  sprites:
+    - sprite: Mobs/Customization/Genitalia/testicles.rsi
+      state: "24"

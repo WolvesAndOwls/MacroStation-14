@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Unknown",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "21",
+      "directions": 4
+    },
+    {
+      "name": "23",
+      "directions": 4
+    },
+    {
+      "name": "25",
+      "directions": 4
+    },
+    {
+      "name": "27",
+      "directions": 4
+    },
+    {
+      "name": "29",
+      "directions": 4
+    },
+    {
+      "name": "31",
+      "directions": 4
+    },
+    {
+      "name": "33",
+      "directions": 4
+    },
+    {
+      "name": "35",
+      "directions": 4
+    }
+  ]
+}
