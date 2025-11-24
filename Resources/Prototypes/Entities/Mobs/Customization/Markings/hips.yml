@@ -1,55 +1,55 @@
 - type: marking
   id: hips-21
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/hips.rsi
       state: "21"
 - type: marking
   id: hips-23
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/hips.rsi
       state: "23"
 - type: marking
   id: hips-25
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/hips.rsi
       state: "25"
 - type: marking
   id: hips-27
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/hips.rsi
       state: "27"
 - type: marking
   id: hips-29
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/hips.rsi
       state: "29"
 - type: marking
   id: hips-31
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/hips.rsi
       state: "31"
 - type: marking
   id: hips-33
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/hips.rsi
       state: "33"
 - type: marking
   id: hips-35
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/hips.rsi
