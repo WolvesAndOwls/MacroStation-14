@@ -34,7 +34,6 @@
     - map: [ "id" ]
     - map: [ "outerClothing" ]
     - map: [ "back" ]
-    - map: [ "enum.HumanoidVisualLayers.Genitals" ]
       visible: true
     - map: [ "neck" ]
     - map: [ "enum.HumanoidVisualLayers.SnoutCover" ]
@@ -43,6 +42,7 @@
     - map: [ "enum.HumanoidVisualLayers.HeadSide" ]
     - map: [ "enum.HumanoidVisualLayers.HeadTop" ]
     - map: [ "enum.HumanoidVisualLayers.Tail" ]
+    - map: [ "enum.HumanoidVisualLayers.Genitals" ]
     - map: [ "mask" ]
     - map: [ "head" ]
     - map: [ "pocket1" ]
