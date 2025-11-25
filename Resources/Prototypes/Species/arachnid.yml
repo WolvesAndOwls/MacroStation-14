@@ -34,6 +34,8 @@
     RLeg: MobArachnidRLeg
     LFoot: MobArachnidLFoot
     RFoot: MobArachnidRFoot
+    Genitals: MobHumanoidAnyMarking
+    Ass: MobHumanoidAnyMarking
 
 - type: humanoidBaseSprite
   id: MobArachnidEyes

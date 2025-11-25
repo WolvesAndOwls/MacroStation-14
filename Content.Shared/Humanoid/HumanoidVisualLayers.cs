@@ -31,6 +31,7 @@ namespace Content.Shared.Humanoid
         StencilMask,
         Ensnare,
         Genitals,
+        Ass,
         Fire,
     }
 }

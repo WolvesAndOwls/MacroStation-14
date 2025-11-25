@@ -24,6 +24,8 @@
     RLeg: MobSkeletonRLeg
     LFoot: MobSkeletonLFoot
     RFoot: MobSkeletonRFoot
+    Genitals: MobHumanoidAnyMarking
+    Ass: MobHumanoidAnyMarking
 
 - type: humanoidBaseSprite
   id: MobSkeletonHead

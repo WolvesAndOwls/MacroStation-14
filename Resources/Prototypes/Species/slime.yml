@@ -27,6 +27,8 @@
     RLeg: MobSlimeRLeg
     LFoot: MobSlimeLFoot
     RFoot: MobSlimeRFoot
+    Genitals: MobHumanoidAnyMarking
+    Ass: MobHumanoidAnyMarking
 
 - type: markingPoints
   id: MobSlimeMarkingLimits

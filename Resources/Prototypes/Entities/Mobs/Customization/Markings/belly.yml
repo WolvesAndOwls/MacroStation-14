@@ -1,55 +1,55 @@
 - type: marking
   id: belly-4
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/belly.rsi
       state: "4"
 - type: marking
   id: belly-6
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/belly.rsi
       state: "6"
 - type: marking
   id: belly-8
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/belly.rsi
       state: "8"
 - type: marking
   id: belly-10
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/belly.rsi
       state: "10"
 - type: marking
   id: belly-12
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/belly.rsi
       state: "12"
 - type: marking
   id: belly-14
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/belly.rsi
       state: "14"
 - type: marking
   id: belly-16
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/belly.rsi
       state: "16"
 - type: marking
   id: belly-18
-  bodyPart: HeadTop
+  bodyPart: Genitals
   markingCategory: Genitals
   sprites:
     - sprite: Mobs/Customization/Genitalia/belly.rsi

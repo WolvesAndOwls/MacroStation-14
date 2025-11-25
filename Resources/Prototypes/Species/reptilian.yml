@@ -32,6 +32,8 @@
     RLeg: MobReptilianRLeg
     LFoot: MobReptilianLFoot
     RFoot: MobReptilianRFoot
+    Genitals: MobHumanoidAnyMarking
+    Ass: MobHumanoidAnyMarking
 
 - type: markingPoints
   id: MobReptilianMarkingLimits

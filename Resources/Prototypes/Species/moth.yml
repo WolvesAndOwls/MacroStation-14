@@ -32,6 +32,8 @@
     RLeg: MobMothRLeg
     LFoot: MobMothLFoot
     RFoot: MobMothRFoot
+    Genitals: MobHumanoidAnyMarking
+    Ass: MobHumanoidAnyMarking
 
 - type: humanoidBaseSprite
   id: MobMothEyes

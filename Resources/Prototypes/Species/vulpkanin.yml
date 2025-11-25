@@ -23,7 +23,6 @@
     UndergarmentTop: MobHumanoidAnyMarking
     UndergarmentBottom: MobHumanoidAnyMarking
     Chest: MobVulpkaninTorso
-    Genitals: MobHumanoidAnyMarking
     HeadTop: MobHumanoidAnyMarking
     HeadSide: MobHumanoidAnyMarking
     Tail: MobHumanoidAnyMarking
@@ -36,6 +35,8 @@
     RLeg: MobVulpkaninRLeg
     LFoot: MobVulpkaninLFoot
     RFoot: MobVulpkaninRFoot
+    Genitals: MobHumanoidAnyMarking
+    Ass: MobHumanoidAnyMarking
 
 - type: markingPoints # 6 points on arms and legs due to the "expected" marking usage. Two for hands, two for arms and 2 for claws. Can be lower once we have a distinction between LeftArm and RightArm instead of just Arms.
   id: MobVulpkaninMarkingLimits

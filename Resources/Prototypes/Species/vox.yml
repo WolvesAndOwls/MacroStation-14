@@ -34,6 +34,8 @@
     LFoot: MobVoxLFoot
     RFoot: MobVoxRFoot
     Tail: MobHumanoidAnyMarking
+    Genitals: MobHumanoidAnyMarking
+    Ass: MobHumanoidAnyMarking
 
 - type: markingPoints
   id: MobVoxMarkingLimits

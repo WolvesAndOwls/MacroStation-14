@@ -36,6 +36,7 @@
     LFoot: MobHumanLFoot
     RFoot: MobHumanRFoot
     Genitals: MobHumanoidAnyMarking
+    Ass: MobHumanoidAnyMarking
 
 - type: markingPoints
   id: MobHumanMarkingLimits
